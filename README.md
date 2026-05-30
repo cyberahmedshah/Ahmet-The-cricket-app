@@ -5,9 +5,9 @@ Ahmet is my first Full App. It is a cricket management application designed to s
 ## Features
 
 * Calculate batting average and strike rate
-* Calculate bowling average and economy rate
+* Calculate bowling average and strike rate
 * Manage tournaments and team records
-* Generate and update points tables
+* Manage points tables
 * Calculate Net Run Rate (NRR)
 * Track team and player performance
 
