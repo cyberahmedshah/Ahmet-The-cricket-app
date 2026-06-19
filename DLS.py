@@ -8,5 +8,6 @@ def calculateDLS(target, overs, runs):
         return "Team batting second is ahead"
     else:
         return "Team batting second is behind"
-    
+
+print(calculateDLS(250, 10, 124))    
     
