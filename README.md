@@ -19,3 +19,5 @@ Ahmet is my first Full App. It is a cricket management application designed to s
 
 This project aims to provide an easy-to-use tool for cricket players, organizers, and enthusiasts to manage statistics and tournaments efficiently.
 
+For Cricket World
+
